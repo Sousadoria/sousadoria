@@ -1,7 +1,7 @@
 ## Olá! 
 
 - 🔭 Atualmente estou trabalhando como Jovem Aprendiz em T.I
-- 🌱 Estou estudando Engenharia de Software 
+- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: annaclara.doria2006@gmail.com 
 - 😄 Pronomes: Ela/Dela
 
